@@ -1,0 +1,21 @@
+# --- Secrets: real credentials never enter Git ---
+db.properties
+
+# --- Runtime output produced by the app ---
+logs/
+exports/*
+!exports/.gitkeep
+
+# --- Build output (Maven, IDE compiles) ---
+target/
+out/
+*.class
+
+# --- IDE settings (personal, not project) ---
+.idea/
+*.iml
+.vscode/
+
+# --- Operating system clutter ---
+Thumbs.db
+.DS_Store
