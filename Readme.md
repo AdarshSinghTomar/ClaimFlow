@@ -18,6 +18,7 @@ Java 17 (LTS) · MySQL 8.4 LTS (InnoDB) · JDBC (MySQL Connector/J) · Console U
 | `step-01` | Workshop set up: JDK, MySQL, Git, repository skeleton |
 
 ## Documentation
-- [Design decisions](docs/design-decisions.md)
-- [Learning log](docs/learning-log.md)
-- [How I build projects](docs/how-i-build-projects.md)
+## Documentation
+- [Design decisions](docs/designdecisions.md)
+- [Project journey](docs/Project%20Journey.md)
+- [Confusions](docs/Confusions.md)
