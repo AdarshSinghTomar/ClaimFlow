@@ -1,5 +1,0 @@
-create table emp1 (
-name varchar(15) not null,
-eno int,
-constraint pk primary key(eno)
-);
